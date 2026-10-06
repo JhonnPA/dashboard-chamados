@@ -1,0 +1,15 @@
+# Nunca versionar credenciais nem dados reais da empresa
+credentials.json
+.env
+dashboard.html
+log_execucao*.txt
+.estado_pipeline.json
+
+# Arquivos temporários dos prints da demonstração
+demo/_print_*.html
+
+# Arquivos padrão do Python
+__pycache__/
+*.pyc
+.venv/
+venv/
